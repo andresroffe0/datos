@@ -1,5 +1,8 @@
-streamlit
-pandas
+streamlit>=1.25
+pandas>=1.5
 numpy
-plotly
+plotly>=5.0
 darts
+openpyxl
+pyarrow
+
